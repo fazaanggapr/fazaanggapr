@@ -1,8 +1,8 @@
-<h1 align="left">Welcome to my GitHub!</h1>
+<h1 align="center">Welcome to my GitHub!</h1>
 
 ###
 
-<p align="left">Student</p>
+<h3 align="left">Hello World!</h3>
 
 ###
 
@@ -36,12 +36,6 @@
 
 <div align="center">
   <img height="200" src="https://media.tenor.com/oMtGf2HXOcAAAAAC/sad-anime.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
 ###
