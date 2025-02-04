@@ -1,8 +1,4 @@
-<h1 align="center">Welcome to my GitHub!</h1>
-
-###
-
-<h3 align="left">Hello World!</h3>
+<h1 align="left">Hello, World!</h1>
 
 ###
 
