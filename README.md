@@ -1,8 +1,8 @@
-<h1 align="left">Selamat datang di Welcome to!</h1>
+<h1 align="left">Welcome to my GitHub!</h1>
 
 ###
 
-<p align="left">fazanggapr</p>
+<p align="left">Student</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ ngoding sejak 2024<br>📚 sekarang saya sedang belajar bahasa pemograman PHP <br>🎯 tujuan ingin menjadi seorang software developer yang handal<br>🎲 hobi suka tidur</p>
+<p align="left">✨Coding since 2024<br>📚 Still Learning<br>🎯 My goal is to become a web developer</p>
 
 ###
 
@@ -26,12 +26,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDI4b2M5dXJqbmJ3ZnFvamE4NnJkbGNkNHo2MzA5NGRndjV3NTI1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTgeIPlKXt1IKIAGwU/giphy.webp"  />
+  <img height="200" src="https://media.tenor.com/oMtGf2HXOcAAAAAC/sad-anime.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
 ###
