@@ -1,37 +1,39 @@
-<h1 align="left">Hello World!</h1>
+![Faza Angga](img/github-header-image.png)
 
-###
+<div align="center">
+  <img height="200" width="300" src="https://media.giphy.com/media/znLkTwpJvnPi/giphy.gif"  />
+</div>
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨Coding since 2024<br>📚 Still Learning<br>🎯 My goal is to become a web developer</p>
+<p align="left">I'm a passionate developer and tech enthusiast. 
+🛠  currently working on my internship project
+🤝 collaborate on projects 
+🧠 looking for help who can master advanced backend</p>
 
-###
+#### My Skills
 
-<h2 align="left">I code with</h2>
+[![My Skills](https://skillicons.dev/icons?i=vscode,bootstrap,tailwind,figma&theme=dark)](https://skillicons.dev)
 
-###
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+#### Let's Connect
+![https://instagram.com/fazaanggapr](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/fazaanggapr](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-###
+#### My GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazaanggapr&show_icons=true&theme=highcontrast)
 
-<div align="center">
-  <img height="200" src="https://media.tenor.com/oMtGf2HXOcAAAAAC/sad-anime.gif"  />
-</div>
+### Pacman
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fazaanggapr/fazaanggapr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fazaanggapr/fazaanggapr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fazaanggapr/fazaanggapr/output/pacman-contribution-graph.svg">
+</picture>
 
-###
