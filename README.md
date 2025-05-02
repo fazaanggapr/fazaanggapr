@@ -1,19 +1,23 @@
 ![Faza Angga](img/github-header-image.png)
 
 <div align="center">
-  <img height="200" width="300" src="https://media.giphy.com/media/znLkTwpJvnPi/giphy.gif"  />
+  <img height="200" width="300" src="https://media.giphy.com/media/znLkTwpJvnPi/giphy.gif" />
 </div>
 
-<h2 align="left">About me</h2>
+---
 
-###
+## 👋 About Me
 
-<p align="left">I'm a passionate developer and tech enthusiast. 
-🛠  currently working on my internship project
-🤝 collaborate on projects 
-🧠 looking for help who can master advanced backend</p>
+I'm a passionate developer and tech enthusiast.  
+🛠️ Currently working on my internship project  
+🤝 Open to collaborations  
+🧠 Looking to connect with those who master advanced backend development  
 
-#### My Skills
+---
+
+## 🧰 My Skills
+
+<div align="left">
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,bootstrap,tailwind,figma&theme=dark)](https://skillicons.dev)
 
@@ -24,16 +28,27 @@
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
-#### Let's Connect
-![https://instagram.com/fazaanggapr](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/fazaanggapr](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+</div>
 
-#### My GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazaanggapr&show_icons=true&theme=highcontrast)
+---
 
-### Pacman
+## 📱 Let's Connect
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fazaanggapr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazaanggapr)
+
+---
+
+## 📊 GitHub Stats
+
+![Faza's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazaanggapr&show_icons=true&theme=highcontrast)
+
+---
+
+## 🕹️ Pacman Contribution Graph
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fazaanggapr/fazaanggapr/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fazaanggapr/fazaanggapr/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fazaanggapr/fazaanggapr/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/fazaanggapr/fazaanggapr/output/pacman-contribution-graph.svg">
 </picture>
-
