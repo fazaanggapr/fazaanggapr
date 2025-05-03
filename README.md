@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img height="200" width="300" src="https://media.giphy.com/media/znLkTwpJvnPi/giphy.gif"  />
+  <img height="400" width="1200" src="https://media.giphy.com/media/znLkTwpJvnPi/giphy.gif"  />
 </div>
 
 <h2 align="left">About me</h2>
