@@ -1,19 +1,18 @@
-![Faza Angga](img/github-header-image.png)
+![Faza Angga](img/github-header-image%20(40).png)
+
 
 <div align="center">
-  <img height="200" width="300" src="https://media.giphy.com/media/znLkTwpJvnPi/giphy.gif" />
+  <img height="200" width="300" src="https://media.giphy.com/media/znLkTwpJvnPi/giphy.gif"  />
 </div>
 
----
+<h2 align="left">About me</h2>
 
-## 👋 About Me
+###
 
-I'm a passionate developer and tech enthusiast.  
-🛠️ Currently working on my internship project  
-🤝 Open to collaborations  
-🧠 Looking to connect with those who master advanced backend development  
-
----
+<p align="left">I'm a passionate developer and tech enthusiast. 
+🛠  currently working on my internship project
+🤝 collaborate on projects 
+🧠 looking for help who can master advanced backend</p>
 
 ## 🧰 My Skills
 
