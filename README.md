@@ -1,4 +1,4 @@
-![Faza Angga](img/github-header-image%20(40).png)
+![Faza Angga](img/Hi!%20I’m%20Faza%20Angga%202.png)
 
 
 
@@ -42,10 +42,12 @@
 
 ---
 
-## 🕹️ Pacman Contribution Graph
+## 🕹️ Pacman 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fazaanggapr/fazaanggapr/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fazaanggapr/fazaanggapr/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/fazaanggapr/fazaanggapr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fazaanggapr/fazaanggapr/output/pacman-contribution-graph.svg">
 </picture>
+
+###
