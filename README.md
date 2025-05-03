@@ -1,9 +1,7 @@
 ![Faza Angga](img/github-header-image%20(40).png)
 
 
-<div align="center">
-  <img height="400" width="1200" src="https://media.giphy.com/media/znLkTwpJvnPi/giphy.gif"  />
-</div>
+
 
 <h2 align="left">About me</h2>
 
