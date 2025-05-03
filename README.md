@@ -7,9 +7,9 @@
 
 ###
 
-<p align="left">I'm a passionate developer and tech enthusiast. 
-🛠  currently working on my internship project
-🤝 collaborate on projects 
+<p align="left">I'm a passionate developer and tech enthusiast. <br>
+🛠  currently working on my internship project <br>
+🤝 collaborate on projects <br>
 🧠 looking for help who can master advanced backend</p>
 
 ## 🧰 My Skills
