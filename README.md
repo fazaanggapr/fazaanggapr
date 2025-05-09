@@ -5,13 +5,13 @@
 
 ## ✨ About Me
 
-###
 <div align="left">
 I'm a passionate developer and tech enthusiast. <br>
 🛠  currently working on my internship project <br>
 🤝 collaborate on projects <br>
 🧠 looking for help who can master advanced backend</p>
 </div>
+
 ## 🧰 My Skills
 
 <div align="left">
