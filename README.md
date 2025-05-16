@@ -1,8 +1,5 @@
 ![Faza Angga](img/Hi!%20I’m%20Faza%20Angga%202.png)
 
-
-
-
 ## ✨ About Me
 
 <div align="left">
@@ -47,7 +44,7 @@ I'm a passionate developer and tech enthusiast. <br>
 
 ---
 
-## 💬 Quotes
+## 💬 Random Quotes
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
