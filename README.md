@@ -1,12 +1,12 @@
-![Faza Angga](img/Hi!%20I’m%20Faza%20Angga%202.png)
+![Faza Angga](img/Banner.png)
 
 ## ✨ About Me
 
 <div align="left">
 I'm a passionate developer and tech enthusiast. <br>
-🛠  currently working on my internship project <br>
-🤝 collaborate on projects <br>
-🧠 looking for help who can master advanced backend</p>
+•	Currently working on my internship project <br>
+•	Collaborate on projects <br>
+•	Help who can master advanced backend
 </div>
 
 ## 🧰 Tech Stack
