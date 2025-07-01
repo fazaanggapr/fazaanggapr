@@ -1,19 +1,14 @@
 ![Faza Angga](img/Banner.png)
 
-## ✨ About Me
+## 👋 Hello World! I'm Faza Angga
+ 
+•   🏢 I'm currently doing an internship
+•	💻 I'm currently learning **Laravel** Framework
+•	📬 How to reach me: fazaanggapr@gmail.com
 
-<div align="left">
-I'm a passionate developer and tech enthusiast. <br>
-•	Currently working on my internship project <br>
-•	Collaborate on projects <br>
-•	Help who can master advanced backend
-</div>
+---
 
 ## 🧰 Tech Stack
-
-<div align="left">
-
-[![Tech Stack](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,php,laravel,vite,react,figma&perline=5)](https://skillicons.dev)
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-4E49EE?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -26,13 +21,24 @@ I'm a passionate developer and tech enthusiast. <br>
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 
-</div>
+
 
 ---
 
-## 📱 My Social Link
+## 📱 Social Media 
 
-[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/fazaanggapr)
+<p align="left">
+  <a href="https://instagram.com/usernamekamu">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" style="margin-right: 5px;" />
+  </a>
+  <a href="https://github.com/usernamekamu">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="margin-right: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/usernamekamu">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+
 
 
 ---
