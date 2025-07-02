@@ -41,17 +41,21 @@
 
 ## 📱 Social Media 
 
-<p align="left">
-  <a href="https://instagram.com/usernamekamu">
+<div align="left">
+
+  <a href="https://instagram.com/fazaanggapr">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://github.com/usernamekamu">
+
+  <a href="https://github.com/fazaanggapr">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/usernamekamu">
+
+  <a href="https://linkedin.com/in/fazaanggapr">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
+
+</div>
 
 
 
@@ -59,10 +63,9 @@
 
 ## 📊 GitHub Stats
 
-![Faza's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazaanggapr&show_icons=true&rank_icon=github)
+![Faza's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazaanggapr&show_icons=true&theme=dark&rank_icon=github&hide_border=false)
 
-
-![Faza's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fazaanggapr&layout=compact)
+![Faza's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fazaanggapr&layout=compact&theme=dark&hide_border=false)
 
 ---
 
