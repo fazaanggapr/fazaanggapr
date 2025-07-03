@@ -37,7 +37,8 @@
 
 ## 📱 Social Media
 
-<div align="left">
+
+<div align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
 
 <a href="https://instagram.com/fazaanggapr" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -52,6 +53,7 @@
 </a>
 
 </div>
+
 
 ---
 
