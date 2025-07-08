@@ -1,14 +1,23 @@
 ![Faza Angga](img/Banner.png)
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 ## 👋 Hello World! I'm Faza Angga
 
 - 🏢 I'm currently doing an internship  
-- 💻 I'm currently learning **Laravel** Framework  
+- 🌱 I'm currently learning **Laravel** Framework  
 - 📬 Reach me at: [fazaanggapr@gmail.com](mailto:fazaanggapr@gmail.com)
 
 ---
 
-## 🧰 Tech Stack
+## 📱 Social Media
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fazaanggapr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fazaanggapr)
+
+---
+
+## 💻 Tech Stack
 
 <div align="left">
 
@@ -30,40 +39,15 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-
 </div>
-
----
-
-## 📱 Social Media
-
-
-<div align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
-
-<a href="https://instagram.com/fazaanggapr" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
-<a href="https://github.com/fazaanggapr" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="https://linkedin.com/in/fazaanggapr" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-</div>
-
 
 ---
 
 ## 📊 GitHub Stats
-
 <div align="left">
 
 ![Faza's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazaanggapr&show_icons=true&theme=dark&rank_icon=github&hide_border=false)  
 ![Faza's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fazaanggapr&layout=compact&theme=dark&hide_border=false)
-
 </div>
 
 ---
@@ -72,4 +56,3 @@
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
