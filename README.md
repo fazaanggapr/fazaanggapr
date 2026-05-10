@@ -3,6 +3,7 @@
 ## 👋 Hello World! I'm Faza Angga
 
 <div align="left">
+ 
 - 📬 Reach me at: [fazaanggapr@gmail.com](mailto:fazaanggapr@gmail.com)
 </div>
 
