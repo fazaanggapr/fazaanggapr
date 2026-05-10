@@ -3,9 +3,6 @@
 ## 👋 Hello World! I'm Faza Angga
 
 <div align="left">
-
-- 🏢 I'm currently doing an internship  
-- 📚 I'm currently learning **Laravel** and **React** Framework
 - 📬 Reach me at: [fazaanggapr@gmail.com](mailto:fazaanggapr@gmail.com)
 </div>
 
