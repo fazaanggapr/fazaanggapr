@@ -7,10 +7,7 @@
 
 ### 
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fazaanggapr"  />
-
-<p align="left">👋 Hello World! I'm Faza Angga<br><br>- 🔭 I’m working as Web Developer<br>- 📚 I'm currently learning Laravel<br>- ⚡ In my free time, I usually sleep</p>
+<p align="left">- 🔭 I’m working as Web Developer<br>- 📚 I'm currently learning Laravel<br>- ⚡ In my free time, I usually sleep</p>
 
 </div>
 
