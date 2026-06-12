@@ -28,9 +28,6 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fazaanggapr&theme=monokai&hide_border=true)
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai&row=2&column=3)
-
 ## 🕹 Pacman
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fazaanggapr/fazaanggapr/output/pacman-contribution-graph-dark.svg">
